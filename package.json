@@ -38,7 +38,7 @@
     "Trent Mick",
     "Yunong Xiao"
   ],
-  "name": "restify",
+  "name": "@jimkang/restify",
   "homepage": "http://restifyjs.com",
   "description": "REST framework",
   "version": "4.3.4",
