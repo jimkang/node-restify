@@ -41,7 +41,7 @@
   "name": "@jimkang/restify",
   "homepage": "http://restifyjs.com",
   "description": "REST framework. A fork of 4.3.4.",
-  "version": "4.3.5",
+  "version": "4.3.6",
   "repository": {
     "type": "git",
     "url": "git://github.com/jimkang/node-restify.git"
